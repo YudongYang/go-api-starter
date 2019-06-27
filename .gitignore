@@ -1,0 +1,10 @@
+# go generate
+api-starter
+lastupdate.tmp
+# go router generate
+/routers/*
+!/routers/router.go
+# log
+/log/
+# mac dir
+.DS_Store
